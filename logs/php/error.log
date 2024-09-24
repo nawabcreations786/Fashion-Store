@@ -1,0 +1,4 @@
+[22-Sep-2024 10:34:43 UTC] PHP Warning:  Undefined array key "name" in C:\Users\DELL\Local Sites\fashion-store\app\public\wp-content\plugins\woocommerce\includes\class-wc-install.php on line 921
+[22-Sep-2024 10:34:43 UTC] PHP Warning:  Undefined array key "title" in C:\Users\DELL\Local Sites\fashion-store\app\public\wp-content\plugins\woocommerce\includes\class-wc-install.php on line 923
+[22-Sep-2024 10:34:43 UTC] PHP Warning:  Undefined array key "name" in C:\Users\DELL\Local Sites\fashion-store\app\public\wp-content\plugins\woocommerce\includes\class-wc-install.php on line 921
+[22-Sep-2024 10:34:43 UTC] PHP Warning:  Undefined array key "title" in C:\Users\DELL\Local Sites\fashion-store\app\public\wp-content\plugins\woocommerce\includes\class-wc-install.php on line 923
